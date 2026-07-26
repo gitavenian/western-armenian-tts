@@ -1,0 +1,5 @@
+venv/
+espeak-ng-data/
+audio/
+espeak_audio/
+_in.txt
