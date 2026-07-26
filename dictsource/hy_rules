@@ -10,12 +10,15 @@
 // ligature
 .replace
 և  եւ
+կ՚ կ
+կ’ կ
+կ' կ
 
 
 .group ա
         ա        a
         այ       aI
-?1      այ (_    a
+        այ (_    a
 
 .group բ
         բ        b
@@ -28,6 +31,8 @@
 .group դ
         դ        d
      _) դ (B     d@
+     C) դ (_     @d
+   L02) դ (_     d
 
 .group ե
         ե        e
@@ -101,8 +106,8 @@
 .group յ
         յ        j
      _) յ (B     j@
-?1   _) յ        h
-?1   _) յ (B     h@
+     _) յ        h
+     _) յ (B     h@
 
 .group ն
         ն        n
@@ -120,9 +125,9 @@
      _) ո        vo
         ու       u
         ու (A    v
-?1      ոյ       uj   // ?? uj or uy
+        ոյ       uj   // ?? uj or uy
      A) ոյ       oj   // ?? oj or oy
-?1      ոյ (_    o
+        ոյ (_    o
 
 .group չ
         չ        tS#
@@ -139,12 +144,14 @@
 .group ռ
         ռ        R
      _) ռ (B     R@
-?1 L02) ռ (L02   *
+   L02) ռ (L02   *
 
 .group ս
         ս        s
      _) ս (L01+  @s
      _) ս (B     s@
+     C) ս (_     @s
+   L02) ս (_     s
 
 .group վ
         վ        v

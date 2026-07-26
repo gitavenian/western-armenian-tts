@@ -1,0 +1,85 @@
+# Mark wrong ones with X at the start of the line.
+# count | word | phonemes | flags
+
+   5  ու                     ˈu                               initial
+   3  հայ                    hˈaɪ                             diphthong
+   3  որոշած                 vˌoɾoʃˈadz                       initial
+   3  ենք                    ˈenkʰ                            initial
+   3  այդ                    ˈaɪtʰ                            final-s/d,diphthong
+   3  ժողովուրդի             ʒˌoʀovuɾtʰˈi                     
+   3  է                      ˈe                               
+   2  ինչ                    ˈintʃʰ                           
+   2  կ                      ɡˈen                             
+   2  Մենք                   mˈenkʰ                           
+   2  եւ                     jˈev                             initial
+   2  չէ                     tʃʰˈe                            
+   2  այլ                    ˈaɪl                             diphthong
+   2  միջազգային             mˌitʃʰazkʰaɪˈin                  diphthong
+   2  Հայ                    hˈaɪ                             diphthong
+   1  Իմացէք                 ˌimatsʰˈekʰ                      
+   1  մենք                   mˈenkʰ                           
+   1  ընենք                  ənˈenkʰ                          schwa
+   1  Ազատասէր               ˌazadasˈeɾ                       
+   1  երիտասարդները          jˌeɾidˌasaɾtʰnˈeɾə               initial,schwa
+   1  են                     ˈen                              initial
+   1  անգործ                 ankʰˈoɾdz                        
+   1  չսպասել                tʃʰəsbasˈel                      schwa
+   1  ամէն                   amˈen                            
+   1  կորսնցուցած            ɡˌoɾsntsʰutsʰˈadz                
+   1  պատճառով               bˌaddʒaɾˈov                      
+   1  օդը                    ˈotʰə                            schwa
+   1  բարձրացնել             pʰˌaɾtsʰɾatsʰnˈel                
+   1  շէնքն                  ʃˈenkʰən                         schwa
+   1  մնալ                   mənˈal                           schwa
+   1  փլատակներուն           pʰəlˌadaɡneɾˈun                  schwa
+   1  տակ                    dˈaɡ                             
+   1  Սա                     sˈa                              
+   1  ինքնասպանութիւն        ˌinkʰnasbˌanutʰˈyn               
+   1  խելագարութիւն          χˌelakʰˌaɾutʰˈyn                 
+   1  բարձրագոյն             pʰˌaɾtsʰɾakʰˈujn                 diphthong
+   1  նուիրատուութիւն        nvˌiɾadvutʰˈyn                   
+   1  ազատագրական            ˌazadˌakʰɾaɡˈan                  
+   1  պայքարին               bˌaɪkʰaɾˈin                      diphthong
+   1  Թող                    tʰˈoʀ                            
+   1  հանրութիւնը            hˌanɾutʰˈynə                     schwa
+   1  մեզ                    mˈez                             
+   1  արկածախնդիր            ˌaɾɡadzaχntʰˈiɾ                  
+   1  անուանէ                ˌanvanˈe                         
+   1  կամ                    ɡˈam                             
+   1  ահաբեկիչ               ˌahapʰeɡˈitʃʰ                    
+   1  դահիճ                  tʰahˈidʒ                         
+   1  հարց                   hˈaɾtsʰ                          
+   1  ուժի                   uʒˈi                             initial
+   1  դիմել                  tʰimˈel                          
+   1  որովհետեւ              vˌoɾovhedˈev                     initial
+   1  թրքական                tʰəɾkʰaɡˈan                      schwa
+   1  իշխանութիւնն           ˌiʃχanutʰˈynən                   schwa
+   1  երկիրներ               jˌeɾɡiɾnˈeɾ                      initial
+   1  որոնք                  voɾˈonkʰ                         initial
+   1  կը                     ɡˈə                              schwa
+   1  պաշտպանեն              bˌaʃdbanˈen                      
+   1  իշխանութիւնը           ˌiʃχanutʰˈynə                    schwa
+   1  ոտնահարեն              vˌodnahaɾˈen                     initial
+   1  իրաւունքները           ˌiɾavunkʰnˈeɾə                   schwa
+   1  ժողովուրդը             ʒˌoʀovˈuɾtʰə                     schwa
+   1  երկար                  jeɾɡˈaɾ                          initial
+   1  սպասած                 əsbasˈadz                        schwa
+   1  որ                     vˈoɾ                             initial
+   1  դատարանը               tʰˌadaɾˈanə                      schwa
+   1  գտնէ                   kʰədnˈe                          schwa
+   1  հայկական               hˌaɪɡaɡˈan                       diphthong
+   1  հարցի                  haɾtsʰˈi                         
+   1  լուծումը               ludzˈumə                         schwa
+   1  ինքնակողմնորոշման      ˌinkʰnaɡˌoʀmnoɾoʃmˈan            
+   1  միակ                   miˈaɡ                            
+   1  ելքը                   jˈelkʰə                          initial,schwa
+   1  զինուած                zinvˈadz                         
+   1  պայքարն                baɪkʰˈaɾən                       diphthong,schwa
+   1  Նախնիներու             nˌaχnineɾˈu                      
+   1  ազատ                   azˈad                            
+   1  անկախ                  anɡˈaχ                           
+   1  հայրենիքին             hˌaɪɾenikʰˈin                    diphthong
+   1  մէջ                    mˈetʃʰ                           
+   1  ապրիլն                 abɾˈilən                         schwa
+   1  զարգանալը              zˌaɾkʰanˈalə                     schwa
+   1  իրաւունքն              ˌiɾavˈunkʰən                     schwa

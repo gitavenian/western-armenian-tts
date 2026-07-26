@@ -1,6 +1,15 @@
-// stem-final ս / դ exceptions
-
-դուրս	d'urs
+// stem-final ս / դ (not articles)
+դուրս    d'urs
 ներս	n'ers
 մարդ	m'ard
-վարդ	v'ard
+վարդ    v'ard
+սարդ     s'ard
+
+
+// homograph: espeak cannot tell pronoun from copula.
+// copula is default; change to j'es to prefer the pronoun.
+ես	'es
+
+// standalone letters used as words
+է	'e
+ը	'@
