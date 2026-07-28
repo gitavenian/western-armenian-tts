@@ -1,85 +1,91 @@
 # Mark wrong ones with X at the start of the line.
 # count | word | phonemes | flags
 
-   5  ու                     ˈu                               initial
-   3  հայ                    hˈaɪ                             diphthong
-   3  որոշած                 vˌoɾoʃˈadz                       initial
-   3  ենք                    ˈenkʰ                            initial
-   3  այդ                    ˈaɪtʰ                            final-s/d,diphthong
-   3  ժողովուրդի             ʒˌoʀovuɾtʰˈi                     
-   3  է                      ˈe                               
-   2  ինչ                    ˈintʃʰ                           
-   2  կ                      ɡˈen                             
-   2  Մենք                   mˈenkʰ                           
-   2  եւ                     jˈev                             initial
-   2  չէ                     tʃʰˈe                            
-   2  այլ                    ˈaɪl                             diphthong
-   2  միջազգային             mˌitʃʰazkʰaɪˈin                  diphthong
-   2  Հայ                    hˈaɪ                             diphthong
-   1  Իմացէք                 ˌimatsʰˈekʰ                      
-   1  մենք                   mˈenkʰ                           
-   1  ընենք                  ənˈenkʰ                          schwa
-   1  Ազատասէր               ˌazadasˈeɾ                       
-   1  երիտասարդները          jˌeɾidˌasaɾtʰnˈeɾə               initial,schwa
-   1  են                     ˈen                              initial
-   1  անգործ                 ankʰˈoɾdz                        
-   1  չսպասել                tʃʰəsbasˈel                      schwa
-   1  ամէն                   amˈen                            
-   1  կորսնցուցած            ɡˌoɾsntsʰutsʰˈadz                
-   1  պատճառով               bˌaddʒaɾˈov                      
-   1  օդը                    ˈotʰə                            schwa
-   1  բարձրացնել             pʰˌaɾtsʰɾatsʰnˈel                
-   1  շէնքն                  ʃˈenkʰən                         schwa
-   1  մնալ                   mənˈal                           schwa
-   1  փլատակներուն           pʰəlˌadaɡneɾˈun                  schwa
-   1  տակ                    dˈaɡ                             
-   1  Սա                     sˈa                              
-   1  ինքնասպանութիւն        ˌinkʰnasbˌanutʰˈyn               
-   1  խելագարութիւն          χˌelakʰˌaɾutʰˈyn                 
-   1  բարձրագոյն             pʰˌaɾtsʰɾakʰˈujn                 diphthong
-   1  նուիրատուութիւն        nvˌiɾadvutʰˈyn                   
-   1  ազատագրական            ˌazadˌakʰɾaɡˈan                  
-   1  պայքարին               bˌaɪkʰaɾˈin                      diphthong
-   1  Թող                    tʰˈoʀ                            
-   1  հանրութիւնը            hˌanɾutʰˈynə                     schwa
-   1  մեզ                    mˈez                             
-   1  արկածախնդիր            ˌaɾɡadzaχntʰˈiɾ                  
-   1  անուանէ                ˌanvanˈe                         
-   1  կամ                    ɡˈam                             
-   1  ահաբեկիչ               ˌahapʰeɡˈitʃʰ                    
-   1  դահիճ                  tʰahˈidʒ                         
-   1  հարց                   hˈaɾtsʰ                          
-   1  ուժի                   uʒˈi                             initial
-   1  դիմել                  tʰimˈel                          
-   1  որովհետեւ              vˌoɾovhedˈev                     initial
-   1  թրքական                tʰəɾkʰaɡˈan                      schwa
-   1  իշխանութիւնն           ˌiʃχanutʰˈynən                   schwa
-   1  երկիրներ               jˌeɾɡiɾnˈeɾ                      initial
-   1  որոնք                  voɾˈonkʰ                         initial
-   1  կը                     ɡˈə                              schwa
-   1  պաշտպանեն              bˌaʃdbanˈen                      
-   1  իշխանութիւնը           ˌiʃχanutʰˈynə                    schwa
-   1  ոտնահարեն              vˌodnahaɾˈen                     initial
-   1  իրաւունքները           ˌiɾavunkʰnˈeɾə                   schwa
-   1  ժողովուրդը             ʒˌoʀovˈuɾtʰə                     schwa
-   1  երկար                  jeɾɡˈaɾ                          initial
-   1  սպասած                 əsbasˈadz                        schwa
-   1  որ                     vˈoɾ                             initial
-   1  դատարանը               tʰˌadaɾˈanə                      schwa
-   1  գտնէ                   kʰədnˈe                          schwa
-   1  հայկական               hˌaɪɡaɡˈan                       diphthong
-   1  հարցի                  haɾtsʰˈi                         
-   1  լուծումը               ludzˈumə                         schwa
-   1  ինքնակողմնորոշման      ˌinkʰnaɡˌoʀmnoɾoʃmˈan            
-   1  միակ                   miˈaɡ                            
-   1  ելքը                   jˈelkʰə                          initial,schwa
-   1  զինուած                zinvˈadz                         
-   1  պայքարն                baɪkʰˈaɾən                       diphthong,schwa
-   1  Նախնիներու             nˌaχnineɾˈu                      
-   1  ազատ                   azˈad                            
-   1  անկախ                  anɡˈaχ                           
-   1  հայրենիքին             hˌaɪɾenikʰˈin                    diphthong
+   3  շատ                    ʃˈad                             
+   3  մը                     mˈə                              schwa
+   3  հետ                    hˈed                             
+   2  Կիթառ                  ɡitʰˈar                          
+   2  հանդարտ                hantʰˈaɾd                        
+   2  ես                     ˈes                              initial
+   2  ինծի                   indzˈi                           
+   2  ու                     ˈu                               initial
+   1  աշխատանքդ              ˌaʃχadˈankʰətʰ                   final-s/d,schwa
+   1  լաւ                    lˈav                             
+   1  է                      ˈe                               
+   1  բայց                   pʰˈaɪtsʰ                         diphthong
+   1  Քիչ                    kʰˈitʃʰ                          
+   1  տաքարիւն               dˌakʰaɾˈyn                       
+   1  եղիր                   jeʀˈiɾ                           initial
+   1  մարդոց                 maɾtʰˈotsʰ                       
+   1  շաղուիր                ʃaʀvˈiɾ                          
+   1  Այս                    ˈaɪs                             final-s/d
+   1  խրատով                 χɾadˈov                          
+   1  արաբ                   aɾˈapʰ                           
+   1  գործընկերներս          kʰˌoɾdzənɡeɾnˈeɾəs               final-s/d,schwa
+   1  հրաժեշտ                həɾaʒˈeʃd                        schwa
+   1  տուին                  dəvˈin                           schwa
+   1  գործիս                 kʰoɾdzˈis                        final-s/d
+   1  վերջին                 veɾtʃʰˈin                        
+   1  օրը                    ˈoɾə                             schwa
+   1  Խորթ                   χˈoɾtʰ                           
+   1  զգացում                əzkʰatsʰˈum                      schwa
+   1  մնաց                   mənˈatsʰ                         schwa
+   1  մէջս                   mˈetʃʰəs                         final-s/d,schwa
+   1  Ես                     ˈes                              initial
+   1  ը                      ˈə                               schwa
+   1  հեռու                  heɾˈu                            
+   1  իրարմէ                 ˌiɾaɾmˈe                         
+   1  Սկիզբը                 əsɡˈizpʰə                        schwa
+   1  մտածեցի                mədˌadzetsʰˈi                    schwa
+   1  թէ                     tʰˈe                             
+   1  գուցէ                  kʰutsʰˈe                         
+   1  ամչկոտ                 amtʃʰɡˈod                        
+   1  էի                     eˈi                              
+   1  անոնց                  anˈontsʰ                         
+   1  բաւական                pʰˌavaɡˈan                       
+   1  չէի                    tʃʰeˈi                           
+   1  մտերմացած              mədˌeɾmatsʰˈadz                  schwa
+   1  Բայց                   pʰˈaɪtsʰ                         diphthong
+   1  յիշողութիւնս           hˌiʃoʀutʰjˈunəs                  final-s/d,initial,schwa
+   1  տարաւ                  daɾˈav                           
+   1  համալսարան             hˌamalsaɾˈan                     
+   1  Քննութենէ              kʰənnˌutʰenˈe                    schwa
+   1  մէկ                    mˈeɡ                             
+   1  ժամ                    ʒˈam                             
+   1  առաջ                   aɾˈatʃʰ                          
+   1  բոլորս                 pʰolˈoɾəs                        final-s/d,schwa
+   1  անհանգստութեան         ˌanhankʰəsdutʰjˈan               schwa
+   1  եւ                     jˈev                             initial
+   1  իրարանցումի            ˌiɾaɾˌantsʰumˈi                  
    1  մէջ                    mˈetʃʰ                           
-   1  ապրիլն                 abɾˈilən                         schwa
-   1  զարգանալը              zˌaɾkʰanˈalə                     schwa
-   1  իրաւունքն              ˌiɾavˈunkʰən                     schwa
+   1  էինք                   eˈinkʰ                           
+   1  Ընկերներս              ənɡeɾnˈeɾəs                      final-s/d,schwa
+   1  որոնց                  voɾˈontsʰ                        initial
+   1  ազատ                   azˈad                            
+   1  համարձակ               hˌamaɾtsʰˈaɡ                     
+   1  հարազատ                hˌaɾazˈad                        
+   1  կը                     ɡˈə                              schwa
+   1  խօսէի                  χˌoseˈi                          
+   1  զարմանքով              zˌaɾmankʰˈov                     
+   1  ըսին                   əsˈin                            schwa
+   1  երանի                  jˌeɾanˈi                         initial
+   1  քեզի                   kʰezˈi                           
+   1  Շատ                    ʃˈad                             
+   1  պաղարիւն               bˌaʀaɾˈyn                        
+   1  հոգդ                   hˈokʰətʰ                         final-s/d,schwa
+   1  չէ                     tʃʰˈe                            
+   1  Զարմացայ               zˌaɾmatsʰˈa                      diphthong
+   1  Արդեօ                  aɾtʰjˈo                          
+   1  ք                      kʰˈe                             
+   1  հայերէնով              hˌaɪeɾenˈov                      diphthong
+   1  անձ                    ˈantsʰ                           
+   1  մըն                    mˈən                             schwa
+   1  եմ                     ˈem                              initial
+   1  արաբերէնով             ˌaɾapʰˌeɾenˈov                   
+   1  ուրիշ                  uɾˈiʃ                            initial
+   1  Ինչպէ                  intʃʰbˈe                         
+   1  ս                      sˈe                              
+   1  կրնայ                  ɡəɾnˈa                           diphthong,schwa
+   1  ըլլալ                  əllˈal                           schwa
+   1  այսպիսի                ˌaɪsbisˈi                        diphthong
+   1  բան                    pʰˈan                            

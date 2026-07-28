@@ -51,6 +51,30 @@ for a, b in [("   L02) ր (L02   r", "   L02) ր (L02   *"),
 fix("7. կ՚ apostrophe",
     "և  եւ",
     "և  եւ\nկ՚ կ\nկ’ կ\nկ' կ")
+# 8. medial cluster schwa: 2 consonants before + 1 after -> insert ը
+import re as _re
+CONS = {'բ':'b','գ':'g','դ':'d','զ':'z','թ':'t#','ժ':'Z','լ':'l','խ':'X',
+        'ծ':'ts','կ':'k','հ':'h','ձ':'dz','ղ':'r"','ճ':'tS','մ':'m','ն':'n',
+        'շ':'S','չ':'tS#','պ':'p','ջ':'dZ','ռ':'R','ս':'s','վ':'v','տ':'t',
+        'ր':'*','ց':'ts#','փ':'p#','ք':'k#','ֆ':'f'}
+if "   CC) " not in s:
+    out = []
+    for line in s.split("\n"):
+        out.append(line)
+        m = _re.match(r"^\.group (.)$", line)
+        if m and m.group(1) in CONS:
+            out.append(f"   CC) {m.group(1)} (C     @{CONS[m.group(1)]}")
+    s = "\n".join(out)
+    applied.append("8. medial cluster schwa")
+else:
+    already.append("8. medial cluster schwa")
+
+fix("9. schwa before ու→v at word start",
+    "        ու (A    v",
+    "        ու (A    v\n    _C) ու (A    @v")
+fix("10. -ութիւն suffix",
+    "        իւ       y",
+    "        իւ       y\n    ութ) իւ      ju")
 
 rules.write_text(s, encoding="utf-8")
 

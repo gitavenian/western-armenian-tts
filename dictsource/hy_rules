@@ -21,14 +21,17 @@
         այ (_    a
 
 .group բ
+   CC) բ (C     @b
         բ        b
      _) բ (B     b@
 
 .group գ
+   CC) գ (C     @g
         գ        g
      _) գ (B     g@
 
 .group դ
+   CC) դ (C     @d
         դ        d
      _) դ (B     d@
      C) դ (_     @d
@@ -41,6 +44,7 @@
         եօ       jo
 
 .group զ
+   CC) զ (C     @z
         զ        z
      _) զ (L01+  @z
      _) զ (B     z@
@@ -54,50 +58,62 @@
         ը        @
 
 .group թ
+   CC) թ (C     @t#
         թ        t#
      _) թ (B     t#@
 
 .group ժ
+   CC) ժ (C     @Z
         ժ        Z
 
 .group ի
         ի        i
         իւ       y
+    ութ) իւ      ju
         իւ (_    iv
         իյ (K    i@
 
 .group լ
+   CC) լ (C     @l
         լ        l
      _) լ (B     l@
 
 .group խ
+   CC) խ (C     @X
         խ        X
 
 .group ծ
+   CC) ծ (C     @ts
         ծ        ts
      _) ծ (B     ts@
 
 .group կ
+   CC) կ (C     @k
         կ        k
      _) կ (B     k@
 
 .group հ
+   CC) հ (C     @h
         հ        h
      _) հ (B     h@
 
 .group ձ
+   CC) ձ (C     @dz
         ձ        dz
      _) ձ (B     dz@
 
 .group ղ
+   CC) ղ (C     @r"
         ղ        r"
      _) ղ (B     r"@
 
 .group ճ
+   CC) ճ (C     @tS
         ճ        tS
      _) ճ (B     tS@
 
 .group մ
+   CC) մ (C     @m
         մ        m
      _) մ (B     m@
      C) մ (_     @m
@@ -110,12 +126,14 @@
      _) յ (B     h@
 
 .group ն
+   CC) ն (C     @n
         ն        n
      _) ն (B     n@
      C) ն (_     @n
    L02) ն (_     n
 
 .group շ
+   CC) շ (C     @S
         շ        S
      _) շ (տ     @S
      _) շ (B     S@
@@ -125,28 +143,34 @@
      _) ո        vo
         ու       u
         ու (A    v
+    _C) ու (A    @v
         ոյ       uj   // ?? uj or uy
      A) ոյ       oj   // ?? oj or oy
         ոյ (_    o
 
 .group չ
+   CC) չ (C     @tS#
         չ        tS#
      _) չ (B     tS#@
 
 .group պ
+   CC) պ (C     @p
         պ        p
      _) պ (B     p@
 
 .group ջ
+   CC) ջ (C     @dZ
         ջ        dZ
      _) ջ (B     dZ@
 
 .group ռ
+   CC) ռ (C     @R
         ռ        R
      _) ռ (B     R@
    L02) ռ (L02   *
 
 .group ս
+   CC) ս (C     @s
         ս        s
      _) ս (L01+  @s
      _) ս (B     s@
@@ -154,14 +178,17 @@
    L02) ս (_     s
 
 .group վ
+   CC) վ (C     @v
         վ        v
      _) վ (B     v@
 
 .group տ
+   CC) տ (C     @t
         տ        t        // ?? [dd]
      _) տ (B     t@
 
 .group ր
+   CC) ր (C     @*
         ր        *
    L02) ր (L02   *
      _) ր (B     *@
@@ -169,6 +196,7 @@
    L02) ր (_     *
 
 .group ց
+   CC) ց (C     @ts#
         ց        ts#
      _) ց (B     ts#@
 
@@ -177,10 +205,12 @@
      _) ւ (B     v@
 
 .group փ
+   CC) փ (C     @p#
         փ        p#
      _) փ (B     p#@
 
 .group ք
+   CC) ք (C     @k#
         ք        k#       // ?? [kk]
      _) ք (B     k#@
 
@@ -188,6 +218,7 @@
         օ        o
 
 .group ֆ
+   CC) ֆ (C     @f
         ֆ        f
      _) ֆ (B     f@
 
