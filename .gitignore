@@ -3,3 +3,5 @@ espeak-ng-data/
 audio/
 espeak_audio/
 _in.txt
+hy_AM-gor-medium.onnx
+piper_out/
